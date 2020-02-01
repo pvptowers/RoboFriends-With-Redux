@@ -1,5 +1,7 @@
 # About This Project
 
+## This project is a work in progress!
+
 This project is build using React with Redux. It uses [Robohash](https://robohash.org/) to generate unique robot images and json placeholder as the mock backend API. It builds on the earlier [RoboFriends](https://github.com/pvptowers/RoboFriends-Just-React) project in my Github that was built using React only (i.e. no use of Redux).
 
 The project was completed as part of the [Complete Junior to Senior Web Developer Roadcamp Course](https://www.udemy.com/course/the-complete-junior-to-senior-web-developer-roadmap/learn/) on Udemy.
